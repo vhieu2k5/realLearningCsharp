@@ -24,6 +24,7 @@ int b = Convert.ToInt32(Console.ReadLine());
         else if(choice =="2")
         {
             Console.WriteLine("2");
+            Console.WriteLine("3");
         }
 
     }
